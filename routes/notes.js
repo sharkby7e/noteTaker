@@ -5,7 +5,7 @@ notes.get('/notes', (req, res) => {
   res.json(data)
 })
 
-notes.get('/notes', (req, res) => {
+notes.post('/notes', (req, res) => {
   res.json(data)
 })
 
