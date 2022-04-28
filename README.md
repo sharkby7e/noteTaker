@@ -11,15 +11,15 @@ in browser, the user is shown a neat webpage populated with cards for all of the
 [Click to view the deployed application](https://fathomless-fjord-18353.herokuapp.com)
 
 ## Table of contents
-    * [Technologies Employed](#technologies-employed)
-    * [Key Functions](#key-functions)
-    * [Installation](#installation)
-    * [Usage](#usage)
-    * [License](#license)
-    * [Contributing](#contributing)
-    * [Testing](#testing)
-    * [Contact/Questions](#questions)
-    * [Summary](#summary-and-learning-points)
+  * [Technologies Employed](#technologies-employed)
+  * [Key Functions](#key-functions)
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [License](#license)
+  * [Contributing](#contributing)
+  * [Testing](#testing)
+  * [Contact/Questions](#questions)
+  * [Summary](#summary-and-learning-points)
 
 
 ## Technologies Employed

@@ -1,12 +1,12 @@
 [
     {
-        "title": "grade this project",
-        "text": "I'm going to give this project a good grade",
-        "id": "eed594b4-a864-462f-9f4e-329fe78d47b4"
+        "title": "Grade this project",
+        "text": "I want to give this project an A+",
+        "id": "0a7ff95d-23a6-4f1c-978a-fb9477feb04c"
     },
     {
-        "title": "have a nice day",
-        "text": "I'm going to be grateful for the things around me to have a nice day",
-        "id": "a054d823-9959-4dec-a660-9d9934209c3e"
+        "title": "Hello Grader!",
+        "text": "I hope you're having a good day",
+        "id": "078f0fca-cba6-465d-9008-772fb0cd8429"
     }
 ]
