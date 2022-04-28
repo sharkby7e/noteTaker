@@ -1,42 +1,12 @@
 [
     {
-        "title": "Test Title",
-        "text": "Test text",
-        "id": "nethstestnsitn"
-    },
-    {
-        "title": "title",
-        "text": "text\n",
-        "id": "ff716f81-14d4-4fcd-b43a-491e99a634b0"
-    },
-    {
-        "title": "here is the title",
-        "text": "here is the note",
-        "id": "837085d9-0057-4412-8743-fb525c5c41ec"
-    },
-    {
-        "title": "i want to add a note",
-        "text": "and i want it to happen",
-        "id": "a9a2bbbf-2571-47af-a602-60c9e7316548"
-    },
-    {
-        "title": "something",
-        "text": "something else",
-        "id": "5caa42bf-2152-45c6-928a-a6b96e734979"
-    },
-    {
-        "title": "something",
-        "text": "something else",
-        "id": "484947f4-b94e-4619-aacc-83731c772ab1"
-    },
-    {
-        "title": "new note",
-        "text": "new note again",
+        "title": "grade this project",
+        "text": "I'm going to give this project a good grade",
         "id": "eed594b4-a864-462f-9f4e-329fe78d47b4"
     },
     {
-        "title": "save new note",
-        "text": "tsitsni",
+        "title": "have a nice day",
+        "text": "I'm going to be grateful for the things around me to have a nice day",
         "id": "a054d823-9959-4dec-a660-9d9934209c3e"
     }
 ]
